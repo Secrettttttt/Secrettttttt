@@ -28,4 +28,5 @@ I'm currently focusing on:
 
 - Mobile programming
 
-Feel free to explore my repositories and connect with me!
+ 
+Feel free to reach out to me via email at francisco.faustiniel.pf@gmail.com.
