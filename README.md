@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm a Computer Science student from STI College! 👋
 
-<!--
-**Secrettttttt/Secrettttttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about programming in Java and C#, as well as exploring various aspects of computer science. Feel free to ask me about any of these topics!
 
-Here are some ideas to get you started:
+## Ask me about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java and C# programming
+- Chess playing strategies
+- Machine learning
+- Solving programming challenges
+
+## Hobbies 📅
+
+In my free time, I enjoy:
+
+- Playing chess
+- Solving programming challenges
+
+## Current Projects 💻
+
+Here's the project I'm currently working on:
+
+- **Shapeshift** - [WIP]
+
+## Learning 📚
+
+I'm currently focusing on:
+
+- Mobile programming
+
+Feel free to explore my repositories and connect with me!
