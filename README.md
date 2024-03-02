@@ -15,6 +15,7 @@ In my free time, I enjoy:
 
 - Playing chess
 - Solving programming challenges
+- Playing Dota 2 / Mobile Legends / Street Basketball AllStar
 
 ## Current Projects 💻
 
@@ -27,6 +28,5 @@ Here's the project I'm currently working on:
 I'm currently focusing on:
 
 - Mobile programming
-
  
 Feel free to reach out to me via email at francisco.faustiniel.pf@gmail.com.
