@@ -28,5 +28,7 @@ Here's the project I'm currently working on:
 I'm currently focusing on:
 
 - Mobile programming
+- Game programming
+- SQL Database
  
 Feel free to reach out to me via email at francisco.faustiniel.pf@gmail.com.
