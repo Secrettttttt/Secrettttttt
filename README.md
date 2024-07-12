@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about programming in Java and C#, a
 
 ## Ask me about
 
-- Java and C# programming
+- HTML, CSS, Javascript, Java, mySQL and C# programming
 - Chess playing strategies
 - Machine learning
 - Solving programming challenges
