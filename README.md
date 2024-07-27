@@ -1,10 +1,10 @@
-# Hi there, I'm a Computer Science student from STI College! 👋
+# Hi there, I'm a Computer Science student 
 
 Welcome to my GitHub profile! I'm passionate about programming in Java and C#, as well as exploring various aspects of computer science. Feel free to ask me about any of these topics!
 
 ## Ask me about
 
-- HTML, CSS, Javascript, Java, mySQL and C# programming
+- HTML, CSS, Javascript, Java, Python, mySQL and C# programming
 - Chess playing strategies
 - Machine learning
 - Solving programming challenges
@@ -17,11 +17,10 @@ In my free time, I enjoy:
 - Solving programming challenges
 - Playing Dota 2 / Mobile Legends / Street Basketball AllStar
 
-## Current Projects 💻
+## Completed Projects 💻
 
-Here's the project I'm currently working on:
-
-- **Shapeshift** - [WIP]
+- Shapeshift
+- Solve 4
 
 ## Learning 📚
 
@@ -30,5 +29,6 @@ I'm currently focusing on:
 - Mobile programming
 - Game programming
 - SQL Database
+- Data Science
  
 Feel free to reach out to me via email at francisco.faustiniel.pf@gmail.com.
